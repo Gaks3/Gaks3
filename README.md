@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ade Bagas Wicaksono</h1>
 <h3 align="center">I am a High School student right now and a self taught programmer. I have been learn programming for than 2 years now. I have many projects using Typescript and other languages. Currently I am learning about PHP and Laravel framework.</h3>
 
-- 👨‍💻 All of my projects are available at [adebagas.vercel.app](https://adebagas.vercel.app)
+- 👨‍💻 All of my projects are available at [adebagas.my.id](https://adebagas.my.id)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
